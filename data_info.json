@@ -1,0 +1,122 @@
+[
+  {
+    "label": "Solana",
+    "agency": "Mainnet"
+  },
+  {
+    "label": "Haqq",
+    "agency": "Mainnet"
+  },
+  {
+    "label": "Umee",
+    "agency": "Mainnet"
+  },
+  {
+    "label": "Stride",
+    "agency": "Mainnet"
+  },
+  {
+    "label": "Humans",
+    "agency": "Mainnet"
+  },
+  {
+    "label": "Quicksilver",
+    "agency": "Mainnet"
+  },
+  {
+    "label": "Gitopia",
+    "agency": "Mainnet"
+  },
+  {
+    "label": "Gravity",
+    "agency": "Mainnet"
+  },
+  {
+    "label": "Aura",
+    "agency": "Mainnet"
+  },
+  {
+    "label": "Meme",
+    "agency": "Mainnet"
+  },
+  {
+    "label": "Kyve",
+    "agency": "Mainnet"
+  },
+  {
+    "label": "Arable",
+    "agency": "Mainnet"
+  },
+  {
+    "label": "Pylons",
+    "agency": "Mainnet"
+  },
+  {
+    "label": "Lambda",
+    "agency": "Mainnet"
+  },
+  {
+    "label": "Rebus",
+    "agency": "Mainnet"
+  },
+  {
+    "label": "Canto",
+    "agency": "Mainnet"
+  },
+  {
+    "label": "Evmos",
+    "agency": "Mainnet"
+  },
+  {
+    "label": "Archway",
+    "agency": "Testnet"
+  },
+  {
+    "label": "Humans",
+    "agency": "Testnet"
+  },
+  {
+    "label": "Quicksilver",
+    "agency": "Testnet"
+  },
+  {
+    "label": "Umee",
+    "agency": "Testnet"
+  },
+  {
+    "label": "Althea",
+    "agency": "Testnet"
+  },
+  {
+    "label": "Cascadia",
+    "agency": "Testnet"
+  },
+  {
+    "label": "Celestia",
+    "agency": "Testnet"
+  },
+  {
+    "label": "Namada",
+    "agency": "Testnet"
+  },
+  {
+    "label": "Ojo",
+    "agency": "Testnet"
+  },
+  {
+    "label": "Dymension",
+    "agency": "Testnet"
+  },
+  {
+    "label": "Elys",
+    "agency": "Testnet"
+  },
+  {
+    "label": "OKP4",
+    "agency": "Testnet"
+  },
+  {
+    "label": "Noria",
+    "agency": "Testnet"
+  }
+]
